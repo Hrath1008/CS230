@@ -29,6 +29,8 @@ If I could choose one part of my work on these documents to revise, I would revi
 •	How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
 It is important to figure out what the user needs for the software vs what they want from the software. The user’s needs are things that are required for the software to work properly and cannot be without. To interpret the user's needs, I have to pay attention to all the requirements that the user tells me and find the items that the software could not possibly be without and make sure that those items are properly implemented into the design. 
+
 •	How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
 I made sure to look over all of the requirements that were expected of me and broke down each requirement into small pieces and slowly worked through each portion, always checking that things were done properly before moving forward. In the future, I would like to try using pseudocode more, as this is very helpful when coming up with a plan for software development. 
 
